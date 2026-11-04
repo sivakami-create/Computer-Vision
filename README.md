@@ -44,6 +44,6 @@ This project implements image processing, feature detection, object detection, a
 
 ## Execution
 Open `CCA3_Unit3.ipynb` using Jupyter Notebook or Google Colab. Install the required Python libraries before executing the notebook.
-
+pip install opencv-python numpy matplotlib scikit-image ultralytics jupyter
 ## Author
 Sivakami M C
